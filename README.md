@@ -40,11 +40,3 @@ SignLanguage-Detection/
 ![Detection 1](detection1.png)
 
 ![Detection 2](detection2.png)
-
-![Detection 3](detection3.png)
-
-![Detection 4](detection4.png)
-
-![Detection 5](detection5.png)
-
-![Detection 6](detection6.png)
