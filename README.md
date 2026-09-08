@@ -28,6 +28,7 @@ SignLanguage-Detection/
 ├── ml/
 ├── dataset/
 └── requirements.txt
+
 ## Screenshots
 
 ### Application Interface
