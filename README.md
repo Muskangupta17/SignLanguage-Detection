@@ -1,7 +1,6 @@
 # Sign Language Detection System
 
-A real-time Sign Language Detection System that uses Python,
-OpenCV, and MediaPipe to recognize hand gestures through a webcam.
+A real-time Sign Language Detection System that uses computer vision and machine learning to recognize hand gestures through a webcam.
 
 ## Features
 
@@ -19,24 +18,13 @@ OpenCV, and MediaPipe to recognize hand gestures through a webcam.
 - NumPy
 - Machine Learning
 
-## Screenshots
+## Project Structure
 
-### Application Interface
-![Application Interface](screenshots/home.png)
-
-### Sign Language Detection
-![Sign Language Detection](screenshots/detection.png)
-
-## How to Run
-
-1. Clone the repository
-2. Install the required packages
-3. Run the application
-4. Allow webcam access
-
-## Future Improvements
-
-- Support more gestures
-- Improve recognition accuracy
-- Add sentence-level translation
-- Deploy as a web application
+```text
+SignLanguage-Detection/
+├── app.py
+├── config.py
+├── extensions.py
+├── ml/
+├── dataset/
+└── requirements.txt
